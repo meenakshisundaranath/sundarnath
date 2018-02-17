@@ -1,0 +1,432 @@
+﻿Delivered-To: tom041994@gmail.com
+Received: from gmail-imap.l.google.com [74.125.68.109]
+	by ipmon.netcore.co.in with IMAP (fetchmail-6.3.24)
+	for <root@localhost> (single-drop); Wed, 10 Jan 2018 16:15:56 +0530 (IST)
+Received: by 10.168.184.131 with SMTP id i125csp4537469off; Wed, 10 Jan 2018
+ 02:36:50 -0800 (PST)
+X-Google-Smtp-Source: ACJfBotpJT+7TLQopSzh9czxFWA/Q8vdhZk3iwsoax+omt1iYsmDSCkNDPz9ufCQBI8aE8Y1t186
+X-Received: by 10.200.10.11 with SMTP id b11mr26184762qti.287.1515580610036;
+ Wed, 10 Jan 2018 02:36:50 -0800 (PST)
+ARC-Seal: i=1; a=rsa-sha256; t=1515580610; cv=none; d=google.com;
+ s=arc-20160816;
+ b=LJsm43b3vnb6qIqCYx13HJXfhV31qybfbR21rs0UmfTo/GbC3uyNYW8SwLMZtVVqw8
+ oY87TZLWXXEFE62o8cOUqwD49j0WKc4eoSJIZc6uJLnXj2scPzUOKn2wRdttY/cok7sc
+ 6b12gBxElYnvTRzz2FjGtsVpoN2wyrWdetcYagOJ7dVlZ4LL4YilGQm2Brn9rb/kdmVU
+ rJzLjSlmRnJhnmc9PXc8u/iVoVBXzj7i/Q5OoKTZv+zwAohverWYaiEDGcuLY16B0sSq
+ AvL77LKHCaQKMTtpREkerABbPTp74oT0ciOChTc3hU0YXROKQEAfuOVtOaTLgVV6tdQr zC3A==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com;
+ s=arc-20160816; h=mime-version:list-unsubscribe:precedence:message-id:subject
+ :reply-to:from:to:date:arc-authentication-results;
+ bh=WaZN5r2DsZoH+AP6shyKLUgOS18rGIRTocbsRjphsB0=;
+ b=Vi+x9R3lpxW+qj0QVKjnSt6zv3ndDBVg+If3RQUDDNcwgnnDhsBkMX6Kp5DcIYtHDX
+ PRMHw4O0u67d0OGJFMyw+ya5iSq04EU8ISl7ClPjXi8bECCIc+7XgEFB/WBFN+klA2nN
+ xwCTwgSqSQLkpSIawsOE65LnV8lxj8GHHMpZed3UOj8KL+tnRleX5lL85a63fSiLMhXD
+ oyfNKhBJaL73RJLPOhQOCbfS0xBusyXxMEtfS9aTq1UVFLzsebfRmZDMmrfUi5IMn0VV
+ OYdLoZbpeJzqKe7cYSZJDfTGOXvi/j7iiE71hWtBxFCZU3Ek83UMCfXwjUBnuQNCMfze YglQ==
+ARC-Authentication-Results: i=1; mx.google.com; spf=pass (google.com: domain
+ of campaign-findstay-12936-46740-0-tom041994=gmail.com@e.findstay.in
+ designates 192.241.190.48 as permitted sender)
+ smtp.mailfrom=campaign-findstay-12936-46740-0-tom041994=gmail.com@e.findstay.in;
+ dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=findstay.in
+Return-Path: <campaign-findstay-12936-46740-0-tom041994=gmail.com@e.findstay.in>
+Received: from crmail15.mgenie.in (crmail15.infimail.com. [192.241.190.48]) by
+ mx.google.com with ESMTPS id l184si4805773qkb.95.2018.01.10.02.36.49 for
+ <tom041994@gmail.com> (version=TLS1 cipher=AES128-SHA bits=128/128); Wed, 10
+ Jan 2018 02:36:50 -0800 (PST)
+Received-SPF: pass (google.com: domain of
+ campaign-findstay-12936-46740-0-tom041994=gmail.com@e.findstay.in designates
+ 192.241.190.48 as permitted sender) client-ip=192.241.190.48;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of
+ campaign-findstay-12936-46740-0-tom041994=gmail.com@e.findstay.in designates
+ 192.241.190.48 as permitted sender)
+ smtp.mailfrom=campaign-findstay-12936-46740-0-tom041994=gmail.com@e.findstay.in;
+ dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=findstay.in
+Date: Wed, 10 Jan 2018 16:05:14 +0530
+To: tom041994@gmail.com
+From: SBI Card <admin@digital.findstay.in>
+Reply-To: SBI Card <admin@digital.findstay.in>
+Subject: Vinit.Thakur83, You Are Eligible For IRCTC Card*
+Message-ID: <36512623850@e.findstay.in>
+X-Priority: 3
+Precedence: bulk
+List-Unsubscribe: <mailto:findstay-12936-46740-0-66345d9f2a28a57b54f9481d423939b1@usub.findstay.in?subject=Unsubscribe>,
+ <http://fin.uncm13.com/findstay/?p=unsubscribe&mid=46740&uid=66345d9f2a28a57b54f9481d423939b1>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="b1_af246268ba88e3fdcdca69fec7d5f816"
+
+
+
+
+--b1_af246268ba88e3fdcdca69fec7d5f816
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Dear tom041994@gmail.com, Open Now
+<http://fin.uncm13.com/ltrack?id=N0QCVFFTAVQCA08IBQMNA1YEUx8=AUsRDloHBQkJDQNxBFVTDQ1IVw1a
+&client=12936>
+
+ <http://fin.uncm13.com/ltrack?id=N0QCVFFTAVQCA08IBQMNA1YEUx8=AUsRDloHBQkJDQNxBFVTDQ1IVw1a
+&client=12936>
+
+ Dear tom041994@gmail.com. To Opt Out Click here <http://fin.uncm13.com/ltrack?id=N0QCVFFTAVQCAE8IBQMNA1YEUx8=AUsRDloHBQkJDQNxBFVTDQ1IVw1a
+&client=12936>
+
+
+--b1_af246268ba88e3fdcdca69fec7d5f816
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+<meta content="text/html;charset=UTF-8" http-equiv="Content-Type"><title></title>
+<style type="text/css">
+body { font-size : 11px; font-family: Verdana, Arial, Helvetica, sans-serif; }
+a { font-size: 11px; color: #ff6600; font-style: normal; font-family: verdana, sans-serif; text-decoration: none; }
+a:visited { color: #666666; }
+a:hover {  text-decoration: underline; }
+p { font-weight: normal; font-size: 11px; color: #666666; font-style: normal; font-family: verdana, sans-serif; text-decoration: none; }
+h1 {font-weight: bold; font-size: 14px; color: #666666; font-style: normal; font-family: verdana, sans-serif; text-decoration: none;}
+h2 {font-weight: bold; font-size: 13px; color: #666666; font-style: normal; font-family: verdana, sans-serif; text-decoration: none;}
+h3 {font-weight: bold; font-size: 12px; color: #666666; font-style: normal; font-family: verdana, sans-serif; text-decoration: none; margin:0px; padding:0px;}
+h4 {font-weight: bold; font-size: 11px; color: #666666; font-style: normal; font-family: verdana, sans-serif; text-decoration: none; margin:0px; padding:0px;}
+hr {width : 100%; height : 1px; color: #ff9900; size:1px;}
+ .forwardform {margin: 0 0 0 0; padding: 0 0 0 0;}
+ .forwardinput {margin: 0 0 0 0; padding: 0 0 0 0;}
+ .forwardsubmit {margin: 0 0 0 0; padding: 0 0 0 0;}
+div.emailfooter { font-size : 11px; font-family: Verdana, Arial, Helvetica, sans-serif; }
+div.emailfooter a { font-size: 11px; color: #ff6600; font-style: normal; font-family: verdana, sans-serif; text-decoration: none; }
+</style>
+</head>
+<body><table align="center" border="0" cellpadding="0" cellspacing="0" id="Table_01">
+<tbody>
+<tr>
+<td align="center">
+<a href='http://fin.uncm13.com/ltrack?id=K0QCVFFTAVQCA08IBQMNA1YEUx8=AUsRDloHBQkJDQNxBFVTDQ1IVw1a
+&client=12936' >Dear tom041994@gmail.com, Open Now</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href='http://fin.uncm13.com/ltrack?id=K0QCVFFTAVQCA08IBQMNA1YEUx8=AUsRDloHBQkJDQNxBFVTDQ1IVw1a
+&client=12936' ><img src="https://s3.amazonaws.com/june6/2may/irtxt.jpg" style="display:block;" /></a>
+</td>
+</tr>
+<tr>
+<td align="center">
+Dear tom041994@gmail.com. To Opt Out <a href='http://fin.uncm13.com/ltrack?id=K0QCVFFTAVQCAE8IBQMNA1YEUx8=AUsRDloHBQkJDQNxBFVTDQ1IVw1a
+&client=12936' >Click here</a>
+</td>
+</tr>
+</tbody>
+</table>
+<!--<a href='http://fin.uncm13.com/ltrack?id=K0QCVFFTAVQCAE8IBQMNA1YEUx8=AUsRDloHBQkJDQNxBFVTDQ1IVw1a
+&client=12936' >click here</a>-->
+<br/><div class="emailfooter"></div><img border="0" src="http://fin.uncm13.com/ltrack?m=46740&u=66345d9f2a28a57b54f9481d423939b1&client=12936&c=0000" ></body>
+</html>
+
+
+
+--b1_af246268ba88e3fdcdca69fec7d5f816--
+|
+
+Delivered-To: tom041994@gmail.com
+Received: from gmail-imap.l.google.com [74.125.68.109]
+	by ipmon.netcore.co.in with IMAP (fetchmail-6.3.24)
+	for <root@localhost> (single-drop); Wed, 10 Jan 2018 16:16:09 +0530 (IST)
+Received: by 10.168.184.131 with SMTP id i125csp4539559off; Wed, 10 Jan 2018
+ 02:39:13 -0800 (PST)
+X-Google-Smtp-Source: ACJfBos32dNPu4xceob70iOGOqVD25KWE6hvX/bVn+Tsw0dfxtnQ5K+gecVA5xEJvD7DoUyIagLz
+X-Received: by 10.55.195.219 with SMTP id r88mr24661172qkl.219.1515580753801;
+ Wed, 10 Jan 2018 02:39:13 -0800 (PST)
+ARC-Seal: i=1; a=rsa-sha256; t=1515580753; cv=none; d=google.com;
+ s=arc-20160816;
+ b=xI7+8sAougSKtuczkg2hGQEDYEQeB+qv79LsaNoCZPj4SMy4LeDmJBDnyHhzfRldlm
+ uN6odjHep2VQNaDFG2ru0a+KMShuH9dKF2wi/pZonha2img5yonPxLNNBxAGIGMBxqPk
+ n0dX10GNM0aYQHDG2cH/5QElFUuJ6+caIEA7F6yja69Znk5R6Eld55qPN0bn5KokeA+5
+ Rx3jMY2IzXeen5jewG+0IG2LldIVIEQK9SAA4ekSGNaggu4Ds9qMu45ax7iuzK4X7/tM
+ r9gMZaR9h0d69Gba76Zo6Bgz424zlWC1hHu4jEMhKU+/NYtZf8p2zW7Owd9ecduXrL3G R5xA==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com;
+ s=arc-20160816;
+ h=date:mime-version:feedback-id:list-unsubscribe:message-id:subject
+ :reply-to:from:to:domainkey-signature:dkim-signature:dkim-signature
+ :arc-authentication-results; bh=pGgTViMdgOdCOk603koGPLvpc5Vcf7pB6GwclVLhIJw=;
+ b=lnDEwbn57IBQF0UXoDvttvfapS32oG9m+ur8hyMXULxYgHJecDrcUNxtaQ5swE0cl0
+ IqKd9QskNp2AawKhj7AwVxx/jvDSN1OnM6j0YNcFWfgWp0Q0gnHMLaHPB8EwpPn/PR4h
+ rHsT45z1C55O5qUnh2KBG5TfIWLxN3LGF+VR4pKB06Sjc7SUodTBxGc4plSOn0Sm4ho2
+ bcJ+U1KqJ5Z3dVEnZ8wG+4rxAVDpuxGkYTJAP8P3BAT58UxziDcAPuhIK0dfdGUXe0nU
+ 820X4dPdbQYDIslNstmUODjZwkZ0kjzefuv25DzlEMqvNvbnqSSJGwL4/upPhyIrckzI oDrw==
+ARC-Authentication-Results: i=1; mx.google.com; dkim=pass
+ header.i=@cultural-heritage-india.com header.s=emm header.b=umdwC4Ve;
+ dkim=pass header.i=@cultural-heritage-india.com header.s=emm
+ header.b=mYB/Jo4a; spf=pass (google.com: domain of
+ campaign-culturalheritageindia-22138-556-0-tom041994=gmail.com@email.cultural-heritage-india.com
+ designates 103.52.181.128 as permitted sender)
+ smtp.mailfrom=campaign-culturalheritageindia-22138-556-0-tom041994=gmail.com@email.cultural-heritage-india.com
+Return-Path: <campaign-culturalheritageindia-22138-556-0-tom041994=gmail.com@email.cultural-heritage-india.com>
+Received: from trans128.mailxy.com (trans128.mailxy.com. [103.52.181.128]) by
+ mx.google.com with ESMTPS id r73si82826qka.116.2018.01.10.02.39.13 for
+ <tom041994@gmail.com> (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256
+ bits=128/128); Wed, 10 Jan 2018 02:39:13 -0800 (PST)
+Received-SPF: pass (google.com: domain of
+ campaign-culturalheritageindia-22138-556-0-tom041994=gmail.com@email.cultural-heritage-india.com
+ designates 103.52.181.128 as permitted sender) client-ip=103.52.181.128;
+Authentication-Results: mx.google.com; dkim=pass
+ header.i=@cultural-heritage-india.com header.s=emm header.b=umdwC4Ve;
+ dkim=pass header.i=@cultural-heritage-india.com header.s=emm
+ header.b=mYB/Jo4a; spf=pass (google.com: domain of
+ campaign-culturalheritageindia-22138-556-0-tom041994=gmail.com@email.cultural-heritage-india.com
+ designates 103.52.181.128 as permitted sender)
+ smtp.mailfrom=campaign-culturalheritageindia-22138-556-0-tom041994=gmail.com@email.cultural-heritage-india.com
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=emm;
+ d=cultural-heritage-india.com;
+ h=To:From:Reply-To:Subject:Message-ID:List-Unsubscribe:MIME-Version:Content-Type:Date;
+ bh=qtmwFsJzrYuKsJSPhXmrSuEpZ44=;
+ b=umdwC4VeL5s+fY87UfpsTza3u4ZlRoCFV+qxBe5HWBg9KfFVBgNDmEqL8vtF71e5E+T2mFUM8tZs
+ JYh8/W0NSJo4PrQEr42Ht2xBe3+Jfx1Cbgog0G6rPe7O+cpyKtcnA3s+xmDT9uK8kt1ZBd5P3lcd
+ cVaL8HR2O88n7cE8hyo=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=emm;
+ d=cultural-heritage-india.com;
+ h=To:From:Reply-To:Subject:Message-ID:List-Unsubscribe:MIME-Version:Content-Type:Date;
+ i=@email.cultural-heritage-india.com; bh=qtmwFsJzrYuKsJSPhXmrSuEpZ44=;
+ b=mYB/Jo4a94gU+NISksnbvtIp8e3Jg2e4gqoLPL5e1V5WPxqY0IEYZHjLHvHS5QeqK1vhjEzQbfeF
+ p0P4efbATQWDt6mFcIqKXcav+r4yvPOhgex3xLqK67PKLnyf3nKfsv+qkjo+Y1g3q8k7AJsrdHUV
+ C500AmGxSkyoIqcrUMw=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=emm;
+ d=cultural-heritage-india.com;
+ b=Q8Pq2/SZ90Gt5T8kcoUop1nW87FOyAfd/9o+tjSzmlqmizWPzCXiB8wXtbWAJKCewr06HAfKx5ho
+ AeqLJJhdo7vtm4NvzwF9GUofqCVvIXcp/oHJt5YYNH+QOpGyvHDOLLW/lvgHUJ8BAsPGGlqgpISf
+ w3+XXdFgt2rrJPA+mxs=;
+Received: by trans128.mailxy.com id hanmle25ock6 for <tom041994@gmail.com>;
+ Wed, 10 Jan 2018 16:07:17 +0530 (envelope-from
+ <campaign-culturalheritageindia-22138-556-0-tom041994=gmail.com@email.cultural-heritage-india.com>)
+Received: from localhost.localdomain (unknown [202.162.247.97]) by
+ app6.foymail.com (Postfix) with ESMTP id 09CFD186D4DE for
+ <tom041994@gmail.com>; Wed, 10 Jan 2018 16:07:12 +0530 (IST)
+To: tom041994@gmail.com
+From: Digital Magazines <info@cultural-heritage-india.com>
+Reply-To: Digital Magazines <info@cultural-heritage-india.com>
+Subject: Read all you can, at a price you'll love
+Message-ID: <95303489620@email.cultural-heritage-india.com>
+List-Unsubscribe: <mailto:culturalheritageindia-22138-556-0-c7b74f66a07401f2db2bd0d1e3764984@usub.cultural-heritage-india.com?subject=Unsubscribe>,
+ <http://lk.trk.cultural-heritage-india.com/culturalheritageindia/?p=smunsub&mid=556&uid=c7b74f66a07401f2db2bd0d1e3764984>
+Feedback-ID: 556:22138:20180110160438:nczc
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="b1_0f6036984a9956ab838e3d4e083af16c"
+Date: Wed, 10 Jan 2018 16:09:19 +0530
+
+
+
+
+--b1_0f6036984a9956ab838e3d4e083af16c
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Magzter-05-01-18 
+You are receiving updates as you have subscribed to culturalheritageindia, To opt out please http://lk.trk.cultural-heritage-india.com/ptrack?g=1&id=YEtRCFIFUFYLBERTBgEGBQ0MA00=AxgVDg9WUgMPWwImU1oAUQ4bAg1V
+&client=22138
+
+
+--b1_0f6036984a9956ab838e3d4e083af16c
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<HTML><HEAD> <TITLE> Magzter-05-01-18 </TITLE> <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1"></HEAD><BODY BGCOLOR=#FFFFFF LEFTMARGIN=0 TOPMARGIN=0 MARGINWIDTH=0 MARGINHEIGHT=0> <!-- ImageReady Slices (Magzter-05-01-18.png) --> <a href='http://lk.trk.cultural-heritage-india.com/ptrack?g=1&id=fEtRCFIFUFYLB0RTBgEGBQ0MA00=AxgVDg9WUgMPWwImU1oAUQ4bAg1V
+&client=22138' > <IMG SRC="http://imageshack.com/a/img922/2412/B67AAw.png" WIDTH=676 HEIGHT=2769 ALT=""> <!-- End ImageReady Slices --><br/><div>You are receiving updates as you have subscribed to culturalheritageindia, To opt out please <a
+href='http://lk.trk.cultural-heritage-india.com/ptrack?g=1&id=fEtRCFIFUFYLBERTBgEGBQ0MA00=AxgVDg9WUgMPWwImU1oAUQ4bAg1V
+&client=22138' >click here</a>
+</div><img border="0" src="http://lk.trk.cultural-heritage-india.com/ptrack?g=1&m=556&eu=BAdRCFAMV1YLBA==&u=c7b74f66a07401f2db2bd0d1e3764984&client=22138&c=0000" ></BODY></HTML>
+
+
+
+--b1_0f6036984a9956ab838e3d4e083af16c--
+
+|
+Delivered-To: tom041994@gmail.com
+Received: from gmail-imap.l.google.com [74.125.68.109]
+	by ipmon.netcore.co.in with IMAP (fetchmail-6.3.24)
+	for <root@localhost> (single-drop); Wed, 10 Jan 2018 16:31:29 +0530 (IST)
+Received: by 10.223.131.226 with SMTP id 89csp383543wre; Wed, 10 Jan 2018
+ 03:01:10 -0800 (PST)
+X-Google-Smtp-Source: ACJfBovyaNtuqioWXswcYUhfX2KF55il8BO8cTaK/PAGTF/0jL01w9XbgM2BtCoEv8tBODxACUsY
+X-Received: by 10.55.1.207 with SMTP id u76mr10889454qkg.344.1515582070805;
+ Wed, 10 Jan 2018 03:01:10 -0800 (PST)
+ARC-Seal: i=1; a=rsa-sha256; t=1515582070; cv=none; d=google.com;
+ s=arc-20160816;
+ b=HxhLR42bgPXYrZirsbCqc6b3DJqVUDmDxQsEsUrYJerYKfJopj4EQQAFjxdolITh93
+ mTS2tNtj+Ln1HnfD/MRfdQQn2PnobZ47Png3QjDGDLPVnN+rTshTXE64q4700WRvq4qK
+ nuA3y3fu4DlZUDP3kRRvtmy3QkpWSdfRW8T5+eLr+iCGoXsMvqh+kqvajdcUhVHY1Leh
+ 5gEu4NA3f+pezxBpR8iT+4hZaBKMPv7ZXjmzkqKYM1Bh+iWjtvDFxntAcP+V81x+JqbJ
+ INib/a7P407wxixe/9MTZyY8LzMjmtIH5Wg2pLyAZ6os8oGChQLkLnAqN+WaFaZw+8/U FUvA==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com;
+ s=arc-20160816; h=mime-version:list-unsubscribe:precedence:message-id:subject
+ :reply-to:from:to:date:arc-authentication-results;
+ bh=OmbNup0M4ojvCMtCvIFCu9aNzRfR6IO6sPdk5eLKdLE=;
+ b=yWTyYxw9k0q1SJWWNyXXbxiS1BxUPIh42/p3D7RpFGwcq3ZLe5t5xkjOC9UOnKN5rw
+ S8kFAdyEPetZ5EvFrQGvbbEhHrmfzcwAh8qEViPpcp1FaNAVFMkamdieaLCZGE556mcf
+ 5GKH3ONa9JZb/OiGp7GyVNWkTWnbwsoOupdTUdc2ibzuMDAEXYfNlAdxEIZ6LMEu7wEV
+ S5mbWcXPnJv68b25C3H+5fUG5cB71lipT8+n2/k7SyHN3/cGprRpSDtvgGB8WjbSaaiX
+ sqzUZGGnCVdO7ktuOJZA7AfT1IzpWOFOubfTM8D8t8ty6qVB++eYq5RyzMuIhnV4dVPJ VdoQ==
+ARC-Authentication-Results: i=1; mx.google.com; spf=pass (google.com: domain
+ of campaign-findstay-12936-46744-0-tom041994=gmail.com@e.findstay.in
+ designates 192.241.190.48 as permitted sender)
+ smtp.mailfrom=campaign-findstay-12936-46744-0-tom041994=gmail.com@e.findstay.in;
+ dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=findstay.in
+Return-Path: <campaign-findstay-12936-46744-0-tom041994=gmail.com@e.findstay.in>
+Received: from crmail15.mgenie.in (crmail15.infimail.com. [192.241.190.48]) by
+ mx.google.com with ESMTPS id g1si3306588qte.486.2018.01.10.03.01.10 for
+ <tom041994@gmail.com> (version=TLS1 cipher=AES128-SHA bits=128/128); Wed, 10
+ Jan 2018 03:01:10 -0800 (PST)
+Received-SPF: pass (google.com: domain of
+ campaign-findstay-12936-46744-0-tom041994=gmail.com@e.findstay.in designates
+ 192.241.190.48 as permitted sender) client-ip=192.241.190.48;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of
+ campaign-findstay-12936-46744-0-tom041994=gmail.com@e.findstay.in designates
+ 192.241.190.48 as permitted sender)
+ smtp.mailfrom=campaign-findstay-12936-46744-0-tom041994=gmail.com@e.findstay.in;
+ dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=findstay.in
+Date: Wed, 10 Jan 2018 16:29:20 +0530
+To: tom041994@gmail.com
+From: IRCTC <admin@digital.findstay.in>
+Reply-To: IRCTC <admin@digital.findstay.in>
+Subject: Mraks.5233 Congratulations, Your Loan Got Approved
+Message-ID: <5831980800@e.findstay.in>
+X-Priority: 3
+Precedence: bulk
+List-Unsubscribe: <mailto:findstay-12936-46744-0-a8faf1e39d946dca569fe1662f9f8322@usub.findstay.in?subject=Unsubscribe>,
+ <http://fin.uncm13.com/findstay/?p=unsubscribe&mid=46744&uid=a8faf1e39d946dca569fe1662f9f8322>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="b1_bc70431992b1df2beb8e824ddd3f8b3a"
+
+
+ |
+ Delivered-To: tom041994@gmail.com
+Received: from gmail-imap.l.google.com [74.125.68.108]
+	by ipmon.netcore.co.in with IMAP (fetchmail-6.3.24)
+	for <root@localhost> (single-drop); Wed, 10 Jan 2018 16:46:56 +0530 (IST)
+Received: by 10.223.131.226 with SMTP id 89csp398632wre; Wed, 10 Jan 2018
+ 03:16:39 -0800 (PST)
+X-Google-Smtp-Source: ACJfBotdniWHbJudjZiZ6Bj3jyfVik2TSJ4nfNCFkE6Jsx6E67PRKS6xxjw7mm4B+n2VHafezaJR
+X-Received: by 10.200.0.65 with SMTP id i1mr24578135qtg.19.1515582998957; Wed,
+ 10 Jan 2018 03:16:38 -0800 (PST)
+ARC-Seal: i=1; a=rsa-sha256; t=1515582998; cv=none; d=google.com;
+ s=arc-20160816;
+ b=wiznH2UDA3pDJiEAnhY/Kbwvr6jf+lz1C7OTEWS/sUm/polu9moA3Rdnf+QIRJtFf7
+ Yud4HVwPa5LDosGXFR6fdcTbwAiUo+YLvuVElPvN6cFzOy9UxUYB0PuS7/6g5G+VY3/O
+ RbGlxViM9AnM8I0DKHFxPNkgM+EDlccQET0VDJwAyxPkLc+a1RKsCB7FO/xEyRHdX1PZ
+ FYKXAkdXi66bUWD6eolVseZAWLimy5rwMm/fWbU9smNAcJPaWQRkboAe2fX/PjlgN7Nz
+ 7d970a7YrAq0VeEKrAJJoio716BeEJL+0/H2S6Oo3QBd3blWXoC4T9NXSfq1W1/u6lYZ 8Knw==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com;
+ s=arc-20160816; h=mime-version:list-unsubscribe:precedence:message-id:subject
+ :reply-to:from:to:date:arc-authentication-results;
+ bh=6INnLaTDAkzV/p4dkW5t9pucN4eRugmIxjP4EFvu2ec=;
+ b=bKZ6JZ1qUwWP2F3n9BeHYbJ8ZNJA6q5+ZjdK9eETKGFaDYHfHfH8VexGI0snDsgHwm
+ hTW5H6TEjUQr4wrJCaZ5kr1ohWRJErT4hyTAWqk5TqYr1pmd+/nwZ2RheV4On81PL/eI
+ FW7ALFX96o3n/qNDeO934I4ZIdNmzSFi8gDW1qqr2JkwuYMl2HnoNREJp4zAVOWgEhrq
+ 3o91bbYXPgo1Q8693YbL7yGlLSH0XDLbTEDFbvxj/aIaWkb7gX9Oy3rbFnJ3ZTcxN+1g
+ X/6mHYxV4FVf8N7HZjrlR1yFjabNmE699YyuczWUAokyp8LDIszij6l7fCVnL0z61gHl pT8g==
+ARC-Authentication-Results: i=1; mx.google.com; spf=pass (google.com: domain
+ of campaign-findstay-12936-46747-0-tom041994=gmail.com@e.findstay.in
+ designates 162.243.208.38 as permitted sender)
+ smtp.mailfrom=campaign-findstay-12936-46747-0-tom041994=gmail.com@e.findstay.in;
+ dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=findstay.in
+Return-Path: <campaign-findstay-12936-46747-0-tom041994=gmail.com@e.findstay.in>
+Received: from crmail7.mgenie.in ([162.243.208.38]) by mx.google.com with
+ ESMTPS id s10si7571851qtg.45.2018.01.10.03.16.38 for <tom041994@gmail.com>
+ (version=TLS1 cipher=AES128-SHA bits=128/128); Wed, 10 Jan 2018 03:16:38
+ -0800 (PST)
+Received-SPF: pass (google.com: domain of
+ campaign-findstay-12936-46747-0-tom041994=gmail.com@e.findstay.in designates
+ 162.243.208.38 as permitted sender) client-ip=162.243.208.38;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of
+ campaign-findstay-12936-46747-0-tom041994=gmail.com@e.findstay.in designates
+ 162.243.208.38 as permitted sender)
+ smtp.mailfrom=campaign-findstay-12936-46747-0-tom041994=gmail.com@e.findstay.in;
+ dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=findstay.in
+Date: Wed, 10 Jan 2018 16:34:47 +0530
+To: tom041994@gmail.com
+From: SBI Card <admin@digital.findstay.in>
+Reply-To: SBI Card <admin@digital.findstay.in>
+Subject: Bbhardwaj44, You Are Eligible For IRCTC Card*
+Message-ID: <47245873210@e.findstay.in>
+X-Priority: 3
+Precedence: bulk
+List-Unsubscribe: <mailto:findstay-12936-46747-0-120c681040e2a306125208133a2b10cd@usub.findstay.in?subject=Unsubscribe>,
+ <http://fin.uncm13.com/findstay/?p=unsubscribe&mid=46747&uid=120c681040e2a306125208133a2b10cd>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="b1_d5b156a2df0e470f2f4041d52259822c"
+
+
+
+
+--b1_d5b156a2df0e470f2f4041d52259822c
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Dear tom041994@gmail.com, Open Now
+<http://fin.uncm13.com/ltrack?id=N0QCVFFTAFUGBE8IBQMNA1YEVB8=AUsRDloHBQkJDQNxBFVTDQ1IVw1a
+&client=12936>
+
+ <http://fin.uncm13.com/ltrack?id=N0QCVFFTAFUGBE8IBQMNA1YEVB8=AUsRDloHBQkJDQNxBFVTDQ1IVw1a
+&client=12936>
+
+Dear tom041994@gmail.com. To Opt Out Click here <http://fin.uncm13.com/ltrack?id=N0QCVFFTAVQBAk8IBQMNA1YEVB8=AUsRDloHBQkJDQNxBFVTDQ1IVw1a
+&client=12936>
+
+
+--b1_d5b156a2df0e470f2f4041d52259822c
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+<meta content="text/html;charset=UTF-8" http-equiv="Content-Type"><title></title>
+<style type="text/css">
+body { font-size : 11px; font-family: Verdana, Arial, Helvetica, sans-serif; }
+a { font-size: 11px; color: #ff6600; font-style: normal; font-family: verdana, sans-serif; text-decoration: none; }
+a:visited { color: #666666; }
+a:hover {  text-decoration: underline; }
+p { font-weight: normal; font-size: 11px; color: #666666; font-style: normal; font-family: verdana, sans-serif; text-decoration: none; }
+h1 {font-weight: bold; font-size: 14px; color: #666666; font-style: normal; font-family: verdana, sans-serif; text-decoration: none;}
+h2 {font-weight: bold; font-size: 13px; color: #666666; font-style: normal; font-family: verdana, sans-serif; text-decoration: none;}
+h3 {font-weight: bold; font-size: 12px; color: #666666; font-style: normal; font-family: verdana, sans-serif; text-decoration: none; margin:0px; padding:0px;}
+h4 {font-weight: bold; font-size: 11px; color: #666666; font-style: normal; font-family: verdana, sans-serif; text-decoration: none; margin:0px; padding:0px;}
+hr {width : 100%; height : 1px; color: #ff9900; size:1px;}
+ .forwardform {margin: 0 0 0 0; padding: 0 0 0 0;}
+ .forwardinput {margin: 0 0 0 0; padding: 0 0 0 0;}
+ .forwardsubmit {margin: 0 0 0 0; padding: 0 0 0 0;}
+div.emailfooter { font-size : 11px; font-family: Verdana, Arial, Helvetica, sans-serif; }
+div.emailfooter a { font-size: 11px; color: #ff6600; font-style: normal; font-family: verdana, sans-serif; text-decoration: none; }
+</style>
+</head>
+<body><table align="center" border="0" cellpadding="0" cellspacing="0" id="Table_01">
+<tbody>
+<tr>
+<td align="center"><a href='http://fin.uncm13.com/ltrack?id=K0QCVFFTAFUGBE8IBQMNA1YEVB8=AUsRDloHBQkJDQNxBFVTDQ1IVw1a
+&client=12936' >Dear tom041994@gmail.com, Open Now</a></td>
+</tr>
+<tr>
+<td><a href='http://fin.uncm13.com/ltrack?id=K0QCVFFTAFUGBE8IBQMNA1YEVB8=AUsRDloHBQkJDQNxBFVTDQ1IVw1a
+&client=12936' ><img src="https://s3.amazonaws.com/june6/2may/irtxt.jpg" style="display:block;" /></a></td>
+</tr>
+<tr>
+<td align="center">Dear tom041994@gmail.com. To Opt Out <a href='http://fin.uncm13.com/ltrack?id=K0QCVFFTAVQBAk8IBQMNA1YEVB8=AUsRDloHBQkJDQNxBFVTDQ1IVw1a
+&client=12936' >Click here</a></td>
+</tr>
+</tbody>
+</table>
+<!--<a href='http://fin.uncm13.com/ltrack?id=K0QCVFFTAVQBAk8IBQMNA1YEVB8=AUsRDloHBQkJDQNxBFVTDQ1IVw1a
+&client=12936' >click here</a>-->
+<br/><div class="emailfooter"></div><img border="0" src="http://fin.uncm13.com/ltrack?m=46747&u=120c681040e2a306125208133a2b10cd&client=12936&c=0000" ></body>
+</html>
+
+
+
+--b1_d5b156a2df0e470f2f4041d52259822c--
+
+
+ 
+
